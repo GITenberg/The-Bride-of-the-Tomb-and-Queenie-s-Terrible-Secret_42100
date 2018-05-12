@@ -1,0 +1,39 @@
+_repo: The-Bride-of-the-Tomb-and-Queenie-s-Terrible-Secret_42100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Miller, Mrs. Alex. McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+description: In the first story, hours before her wedding, lovely Lily Lawrence takes
+  her own life. But through a series of unusual clues, it soon becomes clear that
+  all is not as it seems. The mystery veers into fantastical territory that will surprise
+  even the most attentive reader. Queenie's Terrible Secret offers a glimpse into
+  the inner world of Queenie, who is much more than the spoiled debutante she appears
+  to be.
+gutenberg_issued: '2013-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+tableOfContents: The bride of the tomb; or, Lancelot darling's betrothed -- Queenie's
+  terrible secret; or, a young girl's strange fate.
+title: The Bride of the Tomb, and Queenie's Terrible Secret
+url: http://www.gutenberg.org/ebooks/42100
